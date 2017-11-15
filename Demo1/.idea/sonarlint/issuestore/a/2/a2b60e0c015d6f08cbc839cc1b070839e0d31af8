@@ -1,0 +1,9 @@
+
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÙóÄûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Î€”šùÿÿÿÿ
+Hsquid:S1481"3Remove this unused "parameterValue" local variable.(Ê‡Î²
+hsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ˆè¨úÿÿÿÿ
+–squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚“¶î
+Wsquid:S1854"BRemove this useless assignment to local variable "parameterValue".(Ê‡Î²
