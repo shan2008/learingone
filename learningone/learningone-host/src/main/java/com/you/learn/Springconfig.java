@@ -24,6 +24,8 @@ public class Springconfig {
         DataSource dataSource = new DataSource();
         dataSource.setPassWord(passWord);
         dataSource.setUserName(userName);
+		
+		//·µ»ØdataSurce
         return dataSource;
     }
 

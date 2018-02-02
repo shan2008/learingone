@@ -16,6 +16,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/learingone-repository-impl/pom.xml" />
+        <option value="$PROJECT_DIR$/learningone-common/pom.xml" />
         <option value="$PROJECT_DIR$/learningone-controller/pom.xml" />
       </set>
     </option>

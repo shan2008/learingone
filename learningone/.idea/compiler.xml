@@ -23,6 +23,7 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="learingone-repository" />
+        <module name="learningone-common" />
         <module name="learningone-entity" />
         <module name="learningone-host" />
         <module name="learningone-repository-impl" />
@@ -33,6 +34,7 @@
     <bytecodeTargetLevel target="1.8">
       <module name="learingone-repository" target="1.7" />
       <module name="learningone" target="1.7" />
+      <module name="learningone-common" target="1.7" />
       <module name="learningone-controller" target="1.8" />
       <module name="learningone-entity" target="1.7" />
       <module name="learningone-host" target="1.7" />
