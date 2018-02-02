@@ -14,6 +14,7 @@ public class APP {
         AnnotationConfigApplicationContext applicationContext = new AnnotationConfigApplicationContext(Springconfig.class);
         DataSource dataSource=applicationContext.getBean(DataSource.class);
         if(dataSource!=null){
+			//test
             System.out.println(dataSource.getPassWord()+ " "+dataSource.getUserName());
         }
     }
