@@ -44,6 +44,39 @@
             <artifactId>javax.servlet-api</artifactId>
             <version>3.1.0</version>
         </dependency>
+
+
+        <dependency>
+            <groupId>com.ctrip.tour.tripservice</groupId>
+            <artifactId>framework-core</artifactId>
+        </dependency>
+
+
+        <dependency>
+            <groupId>com.ctrip.ibu.platform</groupId>
+            <artifactId>ibu-shark-sdk</artifactId>
+
+        </dependency>
+
+
+        <dependency>
+            <groupId>com.ctrip.soa.tour.tripservice</groupId>
+            <artifactId>ucp-system-service-client</artifactId>
+            <version>1.0.24</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.ctriposs.baiji</groupId>
+            <artifactId>baiji-rpc-server</artifactId>
+            <version>2.16.2</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.ctriposs.baiji</groupId>
+            <artifactId>baiji-rpc-client</artifactId>
+            <version>2.16.2</version>
+        </dependency>
+
     </dependencies>
 
 

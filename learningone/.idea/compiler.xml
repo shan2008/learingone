@@ -32,15 +32,15 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="learingone-repository" target="1.7" />
-      <module name="learningone" target="1.7" />
+      <module name="learingone-repository" target="1.5" />
+      <module name="learningone" target="1.5" />
       <module name="learningone-common" target="1.7" />
       <module name="learningone-controller" target="1.8" />
-      <module name="learningone-entity" target="1.7" />
-      <module name="learningone-host" target="1.7" />
-      <module name="learningone-repository-impl" target="1.7" />
-      <module name="learningone-service" target="1.7" />
-      <module name="learningone-service-impl" target="1.7" />
+      <module name="learningone-entity" target="1.5" />
+      <module name="learningone-host" target="1.5" />
+      <module name="learningone-repository-impl" target="1.5" />
+      <module name="learningone-service" target="1.5" />
+      <module name="learningone-service-impl" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
